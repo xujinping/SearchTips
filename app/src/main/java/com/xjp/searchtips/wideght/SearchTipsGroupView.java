@@ -90,12 +90,12 @@ public class SearchTipsGroupView extends LinearLayout {
 
             //得到当前行的长度
             length += 10 + getViewWidth(itemView);
-            if (length > screenWidth) {//当前行的长度大于屏幕宽度
+            if (length > screenWidth) {//当前行的长度大于屏幕宽度则换行
                 length = 0;
                 addView(layout, layoutLp);
                 isNewLine = true;
                 i--;
-            } else {
+            } else {//否则添加到当前行
                 isNewLine = false;
                 layout.addView(view, itemLp);
             }
