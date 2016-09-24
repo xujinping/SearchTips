@@ -5,6 +5,8 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 测试git命令使用方式，1.测试public key and privite key.2.测试 中文版的Tortoise Git
 1.fu'wu'qi服务器xiu'gai服务器修改nei'rong服务器修改内容 
 1.测试怎么解决冲突问题。
+
+2.再来一次ce'shi测试jie'jue解决chong'tu解决冲突  
 截屏图片如下：
 
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
