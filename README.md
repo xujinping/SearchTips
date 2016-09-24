@@ -8,4 +8,7 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 
 5.本地文件
 
+6.fu'wu'qi服务器 xiu'gai修改
+
+
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
