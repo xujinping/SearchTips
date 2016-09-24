@@ -20,6 +20,9 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 8.切换分支测试1
 9.xiu'gai修改fu'wu'qi修改服务器nei'rong
 10.测试上传代码。
+
+11.ce'shi测试xiu'g'i测试修改ibugongwen'j文件
+
 截屏图片如下：
 
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
