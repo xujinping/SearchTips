@@ -25,6 +25,12 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 12.修改marst 分支内容
 
 
+<<<<<<< Updated upstream
 12.ce'shi测试cong'tu截屏图片如下：
+=======
+13.测试冲突。
+
+截屏图片如下：
+>>>>>>> Stashed changes
 
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
