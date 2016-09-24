@@ -5,5 +5,5 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 测试git命令使用方式截屏图片如下：
 2.this is a new line code.  
 
-1.test conflict code.2.this is a new line code.
+
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
