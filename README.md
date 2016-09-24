@@ -7,6 +7,9 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 1.测试怎么解决冲突问题。
 
 2.再来一次ce'shi测试jie'jue解决chong'tu解决冲突  
+
+3.j'd'kja'f'l'k's'd'j'f'la's'd'l'k'fa'l's'd觉得卡疯了空手道解放拉萨独立开发类似的
+
 截屏图片如下：
 
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
