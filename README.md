@@ -33,4 +33,6 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 截屏图片如下：
 >>>>>>> Stashed changes
 
+14.service some s't's'tu'sststus ischanged
+
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
