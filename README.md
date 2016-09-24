@@ -4,6 +4,7 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 具体实现的原理代码里面已经说的很清楚了，可以看注解
 测试git命令使用方式截屏图片如下：
 2.this is a new line code.  
+3.this is a test line code.by xjp
 
 
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
