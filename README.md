@@ -10,4 +10,6 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 
 6.craete new branch is test.
 
+7.service test git。
+
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
