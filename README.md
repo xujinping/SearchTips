@@ -5,5 +5,5 @@ android 搜索提示语 弹幕 -----所谓的流式布局，热门标签！无�
 测试git命令使用方式截屏图片如下：
 2.this is a new line code.  
 4.本地修改4.service changed modify.by xjp.
-
+5.本地文件
 ![](https://github.com/xujinping/SearchTips/blob/master/app/src/main/raw/screenShot.png)
